@@ -5,6 +5,8 @@
 
 After the [Enchanted Discord Bot](https://top.gg/bot/697879596040716455) shut down, I tried to rework it in an afk dueling format. A day was spend on the code, and the art found online.
 
+### [Download](https://github.com/Greenfoot5/EnchantedDuels/releases)
+
 ## How to play
 
 1. Pick which items and spells to equip on your character. (Some Developer)
